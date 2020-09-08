@@ -1,3 +1,3 @@
 # MultiResUNet
 
-A pytorch version of MultiResUNet modified by https://github.com/nibtehaz/MultiResUNet
+A pytorch version of MultiResUNet modified from https://github.com/nibtehaz/MultiResUNet
